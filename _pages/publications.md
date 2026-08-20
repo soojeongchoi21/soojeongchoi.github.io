@@ -16,6 +16,8 @@ author_profile: true
 
   2. Won, M.S., Shim, J., **Choi, S.J.**, Lee, J.H. (2024). Development of Multi-Dimensional Mobility Indicators (MDMI) for Agent-based Travel Pattern Classification. <var>Journal of Korean Society of Transportation</var>, 42(6), 674-693. doi: 10.7470/jkst.2024.42.6.674
 
+
+
 ## Paper in Preparation
 
   1. Lee, J.H., **Choi, S.J.**, Debapriya Chakraborty, Scott Hardman, Gil Tal. (2026). Household sharing of electric vehicles and the influence on electric miles travelled. <var>Humanities and Social Sciences Communications</var>. (Under Review)
