@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Download full CV as PDF](/files/CV_SooJeongChoi_Aug20_2026.pdf)
+<embed src="/files/CV_SooJeongChoi_Aug20_2026.pdf" type="application/pdf" width="100%" height="1000px" />
