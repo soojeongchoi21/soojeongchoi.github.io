@@ -23,10 +23,10 @@ repository               : "soojeongchoi/soojeongchoi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "github_profile.JPG"
   name             : "Soo Jeong Choi"
   pronouns         : # example: "she/her"  
-  bio              : "Researcher, Korea Transport Institute (KOTI)"
+  bio              : "Researcher in Department of AI Mobility Technology at Korea Transport Institute (KOTI)"
   location         : "Sejong, Republic of Korea"
   employer         : "Korea Transport Institute (KOTI)"
   uri              : # URL
