@@ -20,4 +20,4 @@ author_profile: true
 
 ## Paper in Preparation
 
-  1. Lee, J.H., **Choi, S.J.**, Debapriya Chakraborty, Scott Hardman, Gil Tal. (2026). Household sharing of electric vehicles and the influence on electric miles travelled. <var>Humanities and Social Sciences Communications</var>. (Under Review)
+  1. Lee, J.H., **Choi, S.J.**, Debapriya Chakraborty, Scott Hardman, Gil Tal. (2026). Household sharing of electric vehicles and the influence on electric miles travelled. <var>Humanities and Social Sciences Communications</var>. <span style="font-size:0.75em; font-weight:600; color:#6b7280;">Under Review</span>
