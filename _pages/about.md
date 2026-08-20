@@ -16,10 +16,3 @@ My research interests lie in behavioral and transportation geography, focusing o
 
 I am always happy to discuss research ideas and potential collaborations. Feel free to reach out to me at sjeongchoi21 at gmail.com !
 
-
-Honors and Awards
-------
-- Development Project Research Fund, Kyungpook National University, 2024-2025
-- Outstanding Presentation Award, Annual Conference of Korean Geographical Society, 2024
-- Hackathon for Improving Demand-Responsive Transportation Services for Mobility-Impaired Individuals Using Public Data (2nd prize), 2023
-- Graduate student Global challenger program, Kyungpook National University, 2023
